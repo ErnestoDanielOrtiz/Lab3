@@ -45,7 +45,10 @@ body {
   }
   .product {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+    
   }
   .social {
     display: flex;
